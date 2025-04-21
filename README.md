@@ -29,3 +29,5 @@ This project dedicates significant complexity to addressing these challenges thr
 *   **Field-Level Validation (`field_validation_agent`):** Performs a final check on extracted data points to ensure they are semantically valid for the specific field (e.g., ensuring a "Product Name" isn't just a generic category).
 
 By employing these validation steps using specialized Pydantic AI agents powered by Gemini models, the tool aims to significantly improve the signal-to-noise ratio and deliver more accurate, reliable, and structured company information despite the inherent complexities of web data. While some systems use AI to trap bots in useless content (like Cloudflare's AI Labyrinth), this project uses AI to rigorously **filter out** irrelevant and inaccurate content *after* retrieval to ensure the quality of the final research data.
+
+Free for all for usage and reference!
