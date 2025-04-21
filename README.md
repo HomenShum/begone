@@ -1,7 +1,7 @@
 # begone
 12000 lines of Pydantic AI, Tavily, Streamlit just to do one thing really well - get rid of useless contents that are scraped.
 
-![ParselyFi Demo](begone/ParselyFi%20Company%20Information%20Page%20v031825.gif)
+![ParselyFi Demo](ParselyFi%20Company%20Information%20Page%20v031825.gif)
 
 ## Core Challenge: Navigating Web Content Complexity
 
